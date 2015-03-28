@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="varel_core_calculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/varel_core_calculator_jar</output-path>
+    <root id="archive" name="varel_core_calculator.jar">
+      <element id="module-output" name="varel_core_calculator" />
+    </root>
+  </artifact>
+</component>
